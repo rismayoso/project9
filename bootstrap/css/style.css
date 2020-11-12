@@ -69,3 +69,38 @@ h1{
 .card-margintop{
     margin-top: 120px;
 }
+
+.ply{
+    position: absolute;
+    margin-top: 1300px;
+    width: 1263px;
+    height: 1250px;
+}
+.ply1{
+    position: absolute;
+    margin-top: 1380px;
+    width: 50px;
+    margin-left: 48%;
+}
+
+.ply2{
+    position: absolute;
+    margin-top: 1530px;
+    margin-left: 41%;
+    color: white;
+}
+
+.ply3{
+    position: absolute;
+    margin-top: 1600px;
+    text-align: center;
+    font-size: 18px;
+    color: white;
+    margin-left: 16%;
+}
+
+.btn-ply{
+    position: absolute;
+    margin-top: 1750px;
+    margin-left: -100px;
+}
